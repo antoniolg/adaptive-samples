@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Archivado · Archived.** Este repositorio ya no se mantiene y puede no compilar con versiones actuales. This repository is no longer maintained and may not build with current versions.
+> Lo que enseño ahora · What I teach now: [devexpert.io](https://devexpert.io)
+
 # Adaptive Samples
 
 A modern Android application showcasing the implementation of Material Design 3 Adaptive components using Jetpack Compose. This project demonstrates various adaptive UI patterns and components that automatically adjust to different screen sizes and form factors.
